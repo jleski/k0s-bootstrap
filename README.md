@@ -9,5 +9,5 @@ Bootstrap single node Kubernetes cluster using K0s.
 Use this one-liner to install:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://k0s.jles.work)"
+/bin/bash -c "$(curl -fsSL https://k0s.jles.one)"
 ```
